@@ -56,7 +56,7 @@
     }
 
     .content img {
-      width: 100%;
+      width: 50%;
       border-radius: 12px;
       margin-top: 1rem;
     }
