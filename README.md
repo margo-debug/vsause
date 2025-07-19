@@ -84,7 +84,7 @@
   <div class="content hidden" id="mainContent">
     <h1>🎉 Iknew that you are a gay!!</h1>
     <p>if you dont stop being gay cauliflower will be out from your butt. so stop being gay. love from Margik</p>
-    <img src="https://images.unsplash.com/photo-1567476783296-fff06012e17a?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Cool Nature">
+    <img src="https://scontent.fcgp7-1.fna.fbcdn.net/v/t1.15752-9/518885580_1250673453186160_6728709876136115387_n.png?_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_ohc=dHnEcdPmPqIQ7kNvwHGmzcY&_nc_oc=Adkgnof6AfjnCtZjwyxKcpeusb2tSha2ib__pfe4UzM0EB5qppHsVLGurdhv5rHcWgU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fcgp7-1.fna&oh=03_Q7cD2wGCebLFO8EnATHIToZ8OIrOofYF43u3iaijxU7Oc_A3Xg&oe=68A2BAE8" alt="Cool Nature">
     <p>love u ummaa</p>
   </div>
 </div>
